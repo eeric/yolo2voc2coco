@@ -1,6 +1,8 @@
 # yolo2voc2coco
 labels: txt-->xml-->json
 
+This project support to Nanodet project to make official labels.
+
 1.Nanodet project address
 
 https://github.com/RangiLyu/nanodet
