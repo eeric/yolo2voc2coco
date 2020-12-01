@@ -26,6 +26,7 @@ sudo pip install alfred-py  #otherwise
 alfred data yolo2voc --image_dir /Path to yours/coco/images/val2017 --text_dir /Path to yours/coco/labels/val2017 --class_file /Path to yours/classes.txt
 
 See the classes.txt file for details.
+
 2.2.3.2 label: xml-->json
 
 python3 alfred/modules/data/voc2coco.py /Path to yours/valxml /Path to yours/val2017.json
