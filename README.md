@@ -42,3 +42,5 @@ alfred data voc2coco --xml_dir /Path to yours/valxml/ --index_1 0 #default annot
 valxml: the folder to store xml format of voc label file 
 
 val2017.json: the json format of coco label file
+
+voc2coco.py: add pre-define category and its id than original that, be sure the labels match.
