@@ -27,6 +27,10 @@ sudo pip install alfred-py  #otherwise
 
 alfred data yolo2voc --image_dir /Path to yours/coco/images/val2017 --text_dir /Path to yours/coco/labels/val2017 --class_file /Path to yours/classes.txt
 
+or
+
+python3 alfred/modules/data/yolo2voc /Path to your image_dir /Path to your text_dir /Path to your class_file
+
 See the classes.txt file for details, particular attention as below:
 
 such as 'traffic light' category, not same as 'traffic_light' category in nanodet/config/nanodet-m.yml
