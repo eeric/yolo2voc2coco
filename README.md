@@ -49,4 +49,4 @@ val2017.json: the json format of coco label file
 
 voc2coco.py: add pre-define category and its id than original that, be sure the labels match.
 
-If I can help you, please give me a star sparklessparklessparkless
+If I can help you, please give me a star.
