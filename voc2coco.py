@@ -40,6 +40,8 @@ PRE_DEFINE_CATEGORIES = {}
 #"cow": 10, "diningtable": 11, "dog": 12, "horse": 13,
 #"motorbike": 14, "person": 15, "pottedplant": 16,
 #"sheep": 17, "sofa": 18, "train": 19, "tvmonitor": 20}
+
+## add pre-define category
 PRE_DEFINE_CATEGORIES = {'person': 0, 'bicycle': 1, 'car': 2, 'motorcycle': 3, 'airplane': 4, 'bus': 5,
 'train': 6, 'truck': 7, 'boat': 8, 'traffic light': 9, 'fire hydrant': 10,
 'stop sign': 11, 'parking meter': 12, 'bench': 13, 'bird': 14, 'cat': 15, 'dog': 16,
