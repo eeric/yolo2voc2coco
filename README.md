@@ -48,7 +48,7 @@ valxml: the folder to store xml format of voc label file
 val2017.json: the json format of coco label file
 
 #### voc2coco.py: add pre-define category, be sure the labels match.
-#### 
+#### 3 category
 
 ## If I can help you, please give me a star :star2: :star2: :star2:
 my csdn: https://blog.csdn.net/yyqq7226741/article/details/110426728
