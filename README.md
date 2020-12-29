@@ -53,6 +53,7 @@ modified voc2coco.py, made other category object bbox not write.
 in voc2coco.py
                 new_id = len(categories)+1 if index_1 else len(categories)
                 categories[category] = new_id
+Remove it and replace it with continue
 
 
 ## If I can help you, please give me a star :star2: :star2: :star2:
