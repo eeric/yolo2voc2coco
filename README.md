@@ -59,6 +59,10 @@ in voc2coco.py
 
 Remove above 2 lines and replace them with continue.
 
+#### Negative sample
+image and label
+1.both names needs to be the same;
+2.the label file content is empty.
 
 ## If I can help you, please give me a star :star2: :star2: :star2:
 my csdn: https://blog.csdn.net/yyqq7226741/article/details/110426728
